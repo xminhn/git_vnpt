@@ -1,0 +1,482 @@
+current_position = 43484
+BUG] Chuong trinh quan ly interface bat dau.
+[2025-04-28 01:35:29] [DEBUG] Khoi tao voi count = 5
+[2025-04-28 01:35:29] [WARN] Day la mot canh bao thu nghiem.
+[2025-04-28 01:35:29] [ERROR] Day la mot loi thu nghiem.
+[2025-04-28 01:37:45] [DEBUG] main, 9: Chuong trinh quan ly interface bat dau.
+[2025-04-28 01:37:45] [DEBUG] main, 11: Khoi tao voi count = 5
+[2025-04-28 01:37:45] [WARN] main, 12: Day la mot canh bao thu nghiem.
+[2025-04-28 01:37:45] [ERROR] main, 13: Day la mot loi thu nghiem.
+[2025-04-28 01:38:35] [DEBUG] main, 9: Chuong trinh quan ly interface bat dau.
+[2025-04-28 01:38:35] [DEBUG] main, 11: Khoi tao voi count = 5
+[2025-04-28 01:38:35] [WARN] main, 12: Day la mot canh bao thu nghiem.
+[2025-04-28 01:38:35] [ERROR] main, 13: Day la mot loi thu nghiem.
+[2025-04-28 03:04:23] [DEBUG] main, 8: Start
+[2025-04-28 03:04:23] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x1d434e0.
+[2025-04-28 03:04:23] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x1d434e0 thanh cong.
+[2025-04-28 03:04:23] [DEBUG] create_node, 64: Tao Node moi cho 'eth0' hoan tat.
+[2025-04-28 03:04:23] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x1d435c0.
+[2025-04-28 03:04:23] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x1d435c0 thanh cong.
+[2025-04-28 03:04:23] [DEBUG] create_node, 64: Tao Node moi cho 'lo' hoan tat.
+[2025-04-28 03:04:23] [DEBUG] list_print, 70: Bat dau in danh sach.
+[2025-04-28 03:04:23] [DEBUG] list_print, 94: In danh sach hoan tat.
+[2025-04-28 03:04:23] [DEBUG] main, 59: End
+[2025-04-28 03:08:37] [DEBUG] main, 8: Start
+[2025-04-28 03:08:37] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x185d4e0.
+[2025-04-28 03:08:37] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x185d4e0 thanh cong.
+[2025-04-28 03:08:37] [DEBUG] create_node, 64: Tao Node moi cho 'eth0' hoan tat.
+[2025-04-28 03:08:37] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x185d5c0.
+[2025-04-28 03:08:37] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x185d5c0 thanh cong.
+[2025-04-28 03:08:37] [DEBUG] create_node, 64: Tao Node moi cho 'lo' hoan tat.
+[2025-04-28 03:08:37] [DEBUG] list_print, 70: Bat dau in danh sach.
+[2025-04-28 03:08:37] [DEBUG] list_print, 94: In danh sach hoan tat.
+[2025-04-28 03:08:37] [DEBUG] main, 59: End
+[2025-04-28 03:13:46] [DEBUG] main, 8: Start
+[2025-04-28 03:13:46] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x1d284e0.
+[2025-04-28 03:13:46] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x1d284e0 thanh cong.
+[2025-04-28 03:13:46] [DEBUG] create_node, 64: Tao Node moi cho 'eth0' hoan tat.
+[2025-04-28 03:13:46] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x1d285c0.
+[2025-04-28 03:13:46] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x1d285c0 thanh cong.
+[2025-04-28 03:13:46] [DEBUG] create_node, 64: Tao Node moi cho 'lo' hoan tat.
+[2025-04-28 03:13:46] [DEBUG] list_print, 70: Bat dau in danh sach.
+[2025-04-28 03:13:46] [DEBUG] list_print, 94: In danh sach hoan tat.
+[2025-04-28 03:13:46] [DEBUG] main, 59: End
+[2025-04-28 03:22:31] [DEBUG] main, 8: Start
+[2025-04-28 03:22:31] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x1e1a4e0.
+[2025-04-28 03:22:31] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x1e1a4e0 thanh cong.
+[2025-04-28 03:22:31] [DEBUG] create_node, 64: Tao Node moi cho 'eth0' hoan tat.
+[2025-04-28 03:22:31] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x1e1a5c0.
+[2025-04-28 03:22:31] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x1e1a5c0 thanh cong.
+[2025-04-28 03:22:31] [DEBUG] create_node, 64: Tao Node moi cho 'lo' hoan tat.
+[2025-04-28 03:22:31] [DEBUG] list_print, 70: Bat dau in danh sach.
+[2025-04-28 03:22:31] [DEBUG] list_print, 94: In danh sach hoan tat.
+[2025-04-28 03:22:31] [DEBUG] main, 59: End
+[2025-04-28 19:30:18] [DEBUG] main, 8: Chuong trinh bat dau.
+[2025-04-28 19:30:18] [DEBUG] list_add, 100: Bat dau them node moi cho 'eth0'.
+[2025-04-28 19:30:18] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x253a4e0.
+[2025-04-28 19:30:18] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x253a4e0 thanh cong.
+[2025-04-28 19:30:18] [DEBUG] create_node, 64: Tao Node moi cho 'eth0' hoan tat.
+[2025-04-28 19:30:18] [DEBUG] list_add, 114: Danh sach rong, them node 'eth0' lam node dau tien.
+[2025-04-28 19:30:18] [DEBUG] list_add, 100: Bat dau them node moi cho 'lo'.
+[2025-04-28 19:30:18] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x253a5c0.
+[2025-04-28 19:30:18] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x253a5c0 thanh cong.
+[2025-04-28 19:30:18] [DEBUG] create_node, 64: Tao Node moi cho 'lo' hoan tat.
+[2025-04-28 19:30:18] [DEBUG] list_add, 123: Da them node 'lo' vao cuoi danh sach.
+[2025-04-28 19:30:18] [DEBUG] list_print, 70: Bat dau in danh sach.
+[2025-04-28 19:30:18] [DEBUG] list_print, 94: In danh sach hoan tat.
+[2025-04-28 19:30:18] [DEBUG] main, 46: Chuong trinh ket thuc.
+[2025-04-28 19:30:31] [DEBUG] main, 8: Chuong trinh bat dau.
+[2025-04-28 19:30:31] [DEBUG] list_add, 100: Bat dau them node moi cho 'eth0'.
+[2025-04-28 19:30:31] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x7d14e0.
+[2025-04-28 19:30:31] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x7d14e0 thanh cong.
+[2025-04-28 19:30:31] [DEBUG] create_node, 64: Tao Node moi cho 'eth0' hoan tat.
+[2025-04-28 19:30:31] [DEBUG] list_add, 114: Danh sach rong, them node 'eth0' lam node dau tien.
+[2025-04-28 19:30:31] [DEBUG] list_add, 100: Bat dau them node moi cho 'lo'.
+[2025-04-28 19:30:31] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x7d15c0.
+[2025-04-28 19:30:31] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x7d15c0 thanh cong.
+[2025-04-28 19:30:31] [DEBUG] create_node, 64: Tao Node moi cho 'lo' hoan tat.
+[2025-04-28 19:30:31] [DEBUG] list_add, 123: Da them node 'lo' vao cuoi danh sach.
+[2025-04-28 19:30:31] [DEBUG] list_print, 70: Bat dau in danh sach.
+[2025-04-28 19:30:31] [DEBUG] list_print, 94: In danh sach hoan tat.
+[2025-04-28 19:30:31] [DEBUG] main, 46: Chuong trinh ket thuc.
+[2025-04-28 20:27:26] [DEBUG] main, 8: Chuong trinh bat dau.
+[2025-04-28 20:27:26] [DEBUG] list_add, 100: Bat dau them node moi cho 'eth0'.
+[2025-04-28 20:27:26] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x216c4e0.
+[2025-04-28 20:27:26] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x216c4e0 thanh cong.
+[2025-04-28 20:27:26] [DEBUG] create_node, 64: Tao Node moi cho 'eth0' hoan tat.
+[2025-04-28 20:27:26] [DEBUG] list_add, 114: Danh sach rong, them node 'eth0' lam node dau tien.
+[2025-04-28 20:27:26] [DEBUG] list_add, 100: Bat dau them node moi cho 'lo'.
+[2025-04-28 20:27:26] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x216c5c0.
+[2025-04-28 20:27:26] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x216c5c0 thanh cong.
+[2025-04-28 20:27:26] [DEBUG] create_node, 64: Tao Node moi cho 'lo' hoan tat.
+[2025-04-28 20:27:26] [DEBUG] list_add, 123: Da them node 'lo' vao cuoi danh sach.
+[2025-04-28 20:27:26] [DEBUG] list_print, 70: Bat dau in danh sach.
+[2025-04-28 20:27:26] [DEBUG] list_print, 94: In danh sach hoan tat.
+[2025-04-28 20:27:26] [DEBUG] list_destroy, 129: Bat dau giai phong danh sach.
+[2025-04-28 20:27:26] [DEBUG] list_destroy, 138: Giai phong du lieu chuoi cho node 'eth0' (0x216c4e0).
+[2025-04-28 20:27:26] [DEBUG] list_destroy, 147: Giai phong node (0x216c4e0).
+[2025-04-28 20:27:26] [DEBUG] list_destroy, 138: Giai phong du lieu chuoi cho node 'lo' (0x216c5c0).
+[2025-04-28 20:27:26] [DEBUG] list_destroy, 147: Giai phong node (0x216c5c0).
+[2025-04-28 20:27:26] [DEBUG] list_destroy, 156: Giai phong danh sach hoan tat, head da duoc set ve NULL.
+[2025-04-28 20:27:26] [DEBUG] list_print, 70: Bat dau in danh sach.
+[2025-04-28 20:27:26] [WARN] list_print, 76: Danh sach rong, khong co gi de in.
+[2025-04-28 20:27:26] [DEBUG] main, 32: Chuong trinh ket thuc.
+[2025-04-28 20:44:52] [DEBUG] main, 8: Chuong trinh bat dau.
+[2025-04-28 20:44:52] [DEBUG] list_add, 100: Bat dau them node moi cho 'eth0'.
+[2025-04-28 20:44:52] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0xc694e0.
+[2025-04-28 20:44:52] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0xc694e0 thanh cong.
+[2025-04-28 20:44:52] [DEBUG] create_node, 64: Tao Node moi cho 'eth0' hoan tat.
+[2025-04-28 20:44:52] [DEBUG] list_add, 114: Danh sach rong, them node 'eth0' lam node dau tien.
+[2025-04-28 20:44:52] [DEBUG] list_add, 100: Bat dau them node moi cho 'lo'.
+[2025-04-28 20:44:52] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0xc695c0.
+[2025-04-28 20:44:52] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0xc695c0 thanh cong.
+[2025-04-28 20:44:52] [DEBUG] create_node, 64: Tao Node moi cho 'lo' hoan tat.
+[2025-04-28 20:44:52] [DEBUG] list_add, 123: Da them node 'lo' vao cuoi danh sach.
+[2025-04-28 20:44:52] [DEBUG] list_print, 70: Bat dau in danh sach.
+[2025-04-28 20:44:52] [DEBUG] list_print, 94: In danh sach hoan tat.
+[2025-04-28 20:44:52] [DEBUG] list_search, 161: Bat dau tim kiem node voi ten 'lo'.
+[2025-04-28 20:44:52] [DEBUG] list_search, 169: Da tim thay node 'lo' tai dia chi 0xc695c0.
+[2025-04-28 20:44:52] [DEBUG] list_search, 161: Bat dau tim kiem node voi ten 'eth1'.
+[2025-04-28 20:44:52] [WARN] list_search, 178: Khong tim thay node voi ten 'eth1'.
+[2025-04-28 20:44:52] [DEBUG] list_destroy, 129: Bat dau giai phong danh sach.
+[2025-04-28 20:44:52] [DEBUG] list_destroy, 138: Giai phong du lieu chuoi cho node 'eth0' (0xc694e0).
+[2025-04-28 20:44:52] [DEBUG] list_destroy, 147: Giai phong node (0xc694e0).
+[2025-04-28 20:44:52] [DEBUG] list_destroy, 138: Giai phong du lieu chuoi cho node 'lo' (0xc695c0).
+[2025-04-28 20:44:52] [DEBUG] list_destroy, 147: Giai phong node (0xc695c0).
+[2025-04-28 20:44:52] [DEBUG] list_destroy, 156: Giai phong danh sach hoan tat, head da duoc set ve NULL.
+[2025-04-28 20:44:52] [DEBUG] list_print, 70: Bat dau in danh sach.
+[2025-04-28 20:44:52] [WARN] list_print, 76: Danh sach rong, khong co gi de in.
+[2025-04-28 20:44:52] [DEBUG] main, 57: Chuong trinh ket thuc.
+[2025-04-29 10:52:56] [DEBUG] main, 8: Chuong trinh bat dau.
+[2025-04-29 10:52:56] [DEBUG] list_add, 100: Bat dau them node moi cho 'eth0'.
+[2025-04-29 10:52:56] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x1f0f4e0.
+[2025-04-29 10:52:56] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x1f0f4e0 thanh cong.
+[2025-04-29 10:52:56] [DEBUG] create_node, 64: Tao Node moi cho 'eth0' hoan tat.
+[2025-04-29 10:52:56] [DEBUG] list_add, 114: Danh sach rong, them node 'eth0' lam node dau tien.
+[2025-04-29 10:52:56] [DEBUG] list_add, 100: Bat dau them node moi cho 'lo'.
+[2025-04-29 10:52:56] [DEBUG] create_node, 22: Cap phat Node moi thanh cong tai dia chi 0x1f0f5c0.
+[2025-04-29 10:52:56] [DEBUG] create_node, 56: Sao chep du lieu chuoi cho Node 0x1f0f5c0 thanh cong.
+[2025-04-29 10:52:56] [DEBUG] create_node, 64: Tao Node moi cho 'lo' hoan tat.
+[2025-04-29 10:52:56] [DEBUG] list_add, 123: Da them node 'lo' vao cuoi danh sach.
+[2025-04-29 10:52:56] [DEBUG] list_print, 70: Bat dau in danh sach.
+[2025-04-29 10:52:56] [DEBUG] list_print, 94: In danh sach hoan tat.
+[2025-04-29 10:52:56] [DEBUG] list_search, 161: Bat dau tim kiem node voi ten 'lo'.
+[2025-04-29 10:52:56] [DEBUG] list_search, 169: Da tim thay node 'lo' tai dia chi 0x1f0f5c0.
+[2025-04-29 10:52:56] [DEBUG] list_search, 161: Bat dau tim kiem node voi ten 'eth1'.
+[2025-04-29 10:52:56] [WARN] list_search, 178: Khong tim thay node voi ten 'eth1'.
+[2025-04-29 10:52:56] [DEBUG] list_destroy, 129: Bat dau giai phong danh sach.
+[2025-04-29 10:52:56] [DEBUG] list_destroy, 138: Giai phong du lieu chuoi cho node 'eth0' (0x1f0f4e0).
+[2025-04-29 10:52:56] [DEBUG] list_destroy, 147: Giai phong node (0x1f0f4e0).
+[2025-04-29 10:52:56] [DEBUG] list_destroy, 138: Giai phong du lieu chuoi cho node 'lo' (0x1f0f5c0).
+[2025-04-29 10:52:56] [DEBUG] list_destroy, 147: Giai phong node (0x1f0f5c0).
+[2025-04-29 10:52:56] [DEBUG] list_destroy, 156: Giai phong danh sach hoan tat, head da duoc set ve NULL.
+[2025-04-29 10:52:56] [DEBUG] list_print, 70: Bat dau in danh sach.
+[2025-04-29 10:52:56] [WARN] list_print, 76: Danh sach rong, khong co gi de in.
+[2025-04-29 10:52:56] [DEBUG] main, 57: Chuong trinh ket thuc.
+[2025-04-29 10:55:32] [DEBUG] main, 9: Chuong trinh bat dau.
+[2025-04-29 10:55:32] [DEBUG] list_add, 101: Bat dau them node moi cho 'eth0'.
+[2025-04-29 10:55:32] [DEBUG] create_node, 23: Cap phat Node moi thanh cong tai dia chi 0x18ff4e0.
+[2025-04-29 10:55:32] [DEBUG] create_node, 57: Sao chep du lieu chuoi cho Node 0x18ff4e0 thanh cong.
+[2025-04-29 10:55:32] [DEBUG] create_node, 65: Tao Node moi cho 'eth0' hoan tat.
+[2025-04-29 10:55:32] [DEBUG] list_add, 115: Danh sach rong, them node 'eth0' lam node dau tien.
+[2025-04-29 10:55:32] [DEBUG] list_add, 101: Bat dau them node moi cho 'lo'.
+[2025-04-29 10:55:32] [DEBUG] create_node, 23: Cap phat Node moi thanh cong tai dia chi 0x18ff5c0.
+[2025-04-29 10:55:32] [DEBUG] create_node, 57: Sao chep du lieu chuoi cho Node 0x18ff5c0 thanh cong.
+[2025-04-29 10:55:32] [DEBUG] create_node, 65: Tao Node moi cho 'lo' hoan tat.
+[2025-04-29 10:55:32] [DEBUG] list_add, 124: Da them node 'lo' vao cuoi danh sach.
+[2025-04-29 10:55:32] [DEBUG] list_add, 101: Bat dau them node moi cho 'br0'.
+[2025-04-29 10:55:32] [DEBUG] create_node, 23: Cap phat Node moi thanh cong tai dia chi 0x18ff6a0.
+[2025-04-29 10:55:32] [DEBUG] create_node, 57: Sao chep du lieu chuoi cho Node 0x18ff6a0 thanh cong.
+[2025-04-29 10:55:32] [DEBUG] create_node, 65: Tao Node moi cho 'br0' hoan tat.
+[2025-04-29 10:55:32] [DEBUG] list_add, 124: Da them node 'br0' vao cuoi danh sach.
+[2025-04-29 10:55:32] [DEBUG] list_add, 101: Bat dau them node moi cho 'eth1'.
+[2025-04-29 10:55:32] [DEBUG] create_node, 23: Cap phat Node moi thanh cong tai dia chi 0x18ff780.
+[2025-04-29 10:55:32] [DEBUG] create_node, 57: Sao chep du lieu chuoi cho Node 0x18ff780 thanh cong.
+[2025-04-29 10:55:32] [DEBUG] create_node, 65: Tao Node moi cho 'eth1' hoan tat.
+[2025-04-29 10:55:32] [DEBUG] list_add, 124: Da them node 'eth1' vao cuoi danh sach.
+[2025-04-29 10:55:32] [DEBUG] list_print, 71: Bat dau in danh sach.
+[2025-04-29 10:55:32] [DEBUG] list_print, 95: In danh sach hoan tat.
+[2025-04-29 10:55:32] [DEBUG] list_delete, 185: Bat dau xoa node voi ten 'br0'.
+[2025-04-29 10:55:32] [DEBUG] list_delete, 219: Xoa node 'br0' (0x18ff6a0).
+[2025-04-29 10:55:32] [DEBUG] list_delete, 227: Xoa node 'br0' thanh cong.
+[2025-04-29 10:55:32] [DEBUG] list_print, 71: Bat dau in danh sach.
+[2025-04-29 10:55:32] [DEBUG] list_print, 95: In danh sach hoan tat.
+[2025-04-29 10:55:32] [DEBUG] list_delete, 185: Bat dau xoa node voi ten 'eth0'.
+[2025-04-29 10:55:32] [DEBUG] list_delete, 198: Xoa node dau tien 'eth0' (0x18ff4e0).
+[2025-04-29 10:55:32] [DEBUG] list_delete, 206: Xoa node dau tien thanh cong.
+[2025-04-29 10:55:32] [DEBUG] list_print, 71: Bat dau in danh sach.
+[2025-04-29 10:55:32] [DEBUG] list_print, 95: In danh sach hoan tat.
+[2025-04-29 10:55:32] [DEBUG] list_delete, 185: Bat dau xoa node voi ten 'wlan0'.
+[2025-04-29 10:55:32] [WARN] list_delete, 236: Khong tim thay node 'wlan0' de xoa.
+[2025-04-29 10:55:32] [DEBUG] list_print, 71: Bat dau in danh sach.
+[2025-04-29 10:55:32] [DEBUG] list_print, 95: In danh sach hoan tat.
+[2025-04-29 10:55:32] [DEBUG] list_delete, 185: Bat dau xoa node voi ten 'eth1'.
+[2025-04-29 10:55:32] [DEBUG] list_delete, 219: Xoa node 'eth1' (0x18ff780).
+[2025-04-29 10:55:32] [DEBUG] list_delete, 227: Xoa node 'eth1' thanh cong.
+[2025-04-29 10:55:32] [DEBUG] list_print, 71: Bat dau in danh sach.
+[2025-04-29 10:55:32] [DEBUG] list_print, 95: In danh sach hoan tat.
+[2025-04-29 10:55:32] [DEBUG] list_delete, 185: Bat dau xoa node voi ten 'lo'.
+[2025-04-29 10:55:32] [DEBUG] list_delete, 198: Xoa node dau tien 'lo' (0x18ff5c0).
+[2025-04-29 10:55:32] [DEBUG] list_delete, 206: Xoa node dau tien thanh cong.
+[2025-04-29 10:55:32] [DEBUG] list_print, 71: Bat dau in danh sach.
+[2025-04-29 10:55:32] [WARN] list_print, 77: Danh sach rong, khong co gi de in.
+[2025-04-29 10:55:32] [DEBUG] list_destroy, 130: Bat dau giai phong danh sach.
+[2025-04-29 10:55:32] [DEBUG] list_destroy, 157: Giai phong danh sach hoan tat, head da duoc set ve NULL.
+[2025-04-29 10:55:32] [DEBUG] main, 62: Chuong trinh ket thuc.
+[2025-04-29 13:44:29] [DEBUG] main, 8: Chuong trinh bat dau.
+[2025-04-29 13:44:29] [DEBUG] load_data_from_file, 246: Bat dau doc du lieu tu file '/home/test/interface_manager/database/data.txt'.
+[2025-04-29 13:44:29] [DEBUG] load_data_from_file, 282: Cap phat buffer 1 bytes thanh cong tai 0x234d710.
+[2025-04-29 13:44:29] [DEBUG] load_data_from_file, 314: Doc file '/home/test/interface_manager/database/data.txt' thanh cong (0 bytes).
+[2025-04-29 13:44:29] [DEBUG] parse_data_buffer, 320: Bat dau phan tich data buffer.
+[2025-04-29 13:44:29] [DEBUG] parse_data_buffer, 407: Phan tich data buffer hoan tat.
+[2025-04-29 13:44:29] [DEBUG] list_print, 75: Bat dau in danh sach.
+[2025-04-29 13:44:29] [WARN] list_print, 81: Danh sach rong, khong co gi de in.
+[2025-04-29 13:44:29] [DEBUG] list_destroy, 134: Bat dau giai phong danh sach.
+[2025-04-29 13:44:29] [DEBUG] list_destroy, 161: Giai phong danh sach hoan tat, head da duoc set ve NULL.
+[2025-04-29 13:44:29] [DEBUG] main, 38: Chuong trinh ket thuc.
+[2025-04-29 13:45:11] [DEBUG] main, 8: Chuong trinh bat dau.
+[2025-04-29 13:45:11] [DEBUG] load_data_from_file, 246: Bat dau doc du lieu tu file '/home/test/interface_manager/database/data.txt'.
+[2025-04-29 13:45:11] [DEBUG] load_data_from_file, 282: Cap phat buffer 904 bytes thanh cong tai 0x1ecb710.
+[2025-04-29 13:45:11] [DEBUG] load_data_from_file, 314: Doc file '/home/test/interface_manager/database/data.txt' thanh cong (903 bytes).
+[2025-04-29 13:45:11] [DEBUG] parse_data_buffer, 320: Bat dau phan tich data buffer.
+[2025-04-29 13:45:11] [DEBUG] parse_data_buffer, 363: Phat hien interface moi, reset buffer tam.
+[2025-04-29 13:45:11] [DEBUG] parse_data_buffer, 375: Phan tich ten: 'ens33', MAC: '00:0c:29:ff:74:cc'
+[2025-04-29 13:45:11] [DEBUG] parse_data_buffer, 383: Phan tich IPv4: '192.168.94.42', Bcast: '192.168.94.255', Mask: '255.255.255.0'
+[2025-04-29 13:45:11] [DEBUG] parse_data_buffer, 386: Phan tich IPv6: 'fe80::16aa:ef58:79e6:bb80/64'
+[2025-04-29 13:45:11] [DEBUG] parse_data_buffer, 389: Phan tich Status: 'UP'
+[2025-04-29 13:45:11] [DEBUG] parse_data_buffer, 357: Hoan tat phan tich cho 'ens33', chuan bi them vao list.
+[2025-04-29 13:45:11] [DEBUG] list_add, 105: Bat dau them node moi cho 'ens33'.
+[2025-04-29 13:45:11] [DEBUG] create_node, 27: Cap phat Node moi thanh cong tai dia chi 0x1ecb4e0.
+[2025-04-29 13:45:11] [DEBUG] create_node, 61: Sao chep du lieu chuoi cho Node 0x1ecb4e0 thanh cong.
+[2025-04-29 13:45:11] [DEBUG] create_node, 69: Tao Node moi cho 'ens33' hoan tat.
+[2025-04-29 13:45:11] [DEBUG] list_add, 119: Danh sach rong, them node 'ens33' lam node dau tien.
+[2025-04-29 13:45:11] [DEBUG] parse_data_buffer, 363: Phat hien interface moi, reset buffer tam.
+[2025-04-29 13:45:11] [DEBUG] parse_data_buffer, 375: Phan tich ten: 'lo', MAC: ''
+[2025-04-29 13:45:11] [DEBUG] parse_data_buffer, 383: Phan tich IPv4: '127.0.0.1', Bcast: '', Mask: '255.0.0.0'
+[2025-04-29 13:45:11] [DEBUG] parse_data_buffer, 386: Phan tich IPv6: '::1/128'
+[2025-04-29 13:45:11] [DEBUG] parse_data_buffer, 389: Phan tich Status: 'UP'
+[2025-04-29 13:45:11] [DEBUG] parse_data_buffer, 400: Hoan tat phan tich cho interface cuoi cung 'lo', chuan bi them vao list.
+[2025-04-29 13:45:11] [DEBUG] list_add, 105: Bat dau them node moi cho 'lo'.
+[2025-04-29 13:45:11] [DEBUG] create_node, 27: Cap phat Node moi thanh cong tai dia chi 0x1ecb5d0.
+[2025-04-29 13:45:11] [DEBUG] create_node, 61: Sao chep du lieu chuoi cho Node 0x1ecb5d0 thanh cong.
+[2025-04-29 13:45:11] [DEBUG] create_node, 69: Tao Node moi cho 'lo' hoan tat.
+[2025-04-29 13:45:11] [DEBUG] list_add, 128: Da them node 'lo' vao cuoi danh sach.
+[2025-04-29 13:45:11] [DEBUG] parse_data_buffer, 407: Phan tich data buffer hoan tat.
+[2025-04-29 13:45:11] [DEBUG] list_print, 75: Bat dau in danh sach.
+[2025-04-29 13:45:11] [DEBUG] list_print, 99: In danh sach hoan tat.
+[2025-04-29 13:45:11] [DEBUG] list_destroy, 134: Bat dau giai phong danh sach.
+[2025-04-29 13:45:11] [DEBUG] list_destroy, 143: Giai phong du lieu chuoi cho node 'ens33' (0x1ecb4e0).
+[2025-04-29 13:45:11] [DEBUG] list_destroy, 152: Giai phong node (0x1ecb4e0).
+[2025-04-29 13:45:11] [DEBUG] list_destroy, 143: Giai phong du lieu chuoi cho node 'lo' (0x1ecb5d0).
+[2025-04-29 13:45:11] [DEBUG] list_destroy, 152: Giai phong node (0x1ecb5d0).
+[2025-04-29 13:45:11] [DEBUG] list_destroy, 161: Giai phong danh sach hoan tat, head da duoc set ve NULL.
+[2025-04-29 13:45:11] [DEBUG] main, 38: Chuong trinh ket thuc.
+[2025-04-29 13:53:02] [DEBUG] main, 8: Chuong trinh bat dau.
+[2025-04-29 13:53:02] [DEBUG] load_data_from_file, 212: Bat dau doc du lieu tu file '/home/test/interface_manager/database/data.txt'.
+[2025-04-29 13:53:02] [DEBUG] load_data_from_file, 243: Cap phat buffer 904 bytes thanh cong tai 0x1840710.
+[2025-04-29 13:53:02] [DEBUG] load_data_from_file, 263: Doc file '/home/test/interface_manager/database/data.txt' thanh cong (903 bytes).
+[2025-04-29 13:53:02] [DEBUG] parse_data_buffer, 270: Bat dau phan tich data buffer.
+[2025-04-29 13:53:02] [DEBUG] parse_data_buffer, 301: Phat hien interface moi, reset buffer tam.
+[2025-04-29 13:53:02] [DEBUG] parse_data_buffer, 312: Phan tich ten: 'ens33', MAC: '00:0c:29:ff:74:cc'
+[2025-04-29 13:53:02] [DEBUG] parse_data_buffer, 320: Phan tich IPv4: '192.168.94.42', Bcast: '192.168.94.255', Mask: '255.255.255.0'
+[2025-04-29 13:53:02] [DEBUG] parse_data_buffer, 323: Phan tich IPv6: 'fe80::16aa:ef58:79e6:bb80/64'
+[2025-04-29 13:53:02] [DEBUG] parse_data_buffer, 326: Phan tich Status: 'UP'
+[2025-04-29 13:53:02] [DEBUG] parse_data_buffer, 296: Hoan tat phan tich cho 'ens33', chuan bi them vao list.
+[2025-04-29 13:53:02] [DEBUG] list_add, 60: Bat dau them node moi cho 'ens33'.
+[2025-04-29 13:53:02] [DEBUG] create_node, 21: Cap phat Node moi thanh cong tai dia chi 0x18404e0.
+[2025-04-29 13:53:02] [DEBUG] create_node, 49: Sao chep du lieu chuoi cho Node 0x18404e0 thanh cong.
+[2025-04-29 13:53:02] [DEBUG] create_node, 52: Tao Node moi cho 'ens33' hoan tat.
+[2025-04-29 13:53:02] [DEBUG] list_add, 72: Danh sach rong, them node 'ens33' lam node dau tien.
+[2025-04-29 13:53:02] [DEBUG] parse_data_buffer, 301: Phat hien interface moi, reset buffer tam.
+[2025-04-29 13:53:02] [DEBUG] parse_data_buffer, 312: Phan tich ten: 'lo', MAC: ''
+[2025-04-29 13:53:02] [DEBUG] parse_data_buffer, 320: Phan tich IPv4: '127.0.0.1', Bcast: '', Mask: '255.0.0.0'
+[2025-04-29 13:53:02] [DEBUG] parse_data_buffer, 323: Phan tich IPv6: '::1/128'
+[2025-04-29 13:53:02] [DEBUG] parse_data_buffer, 326: Phan tich Status: 'UP'
+[2025-04-29 13:53:02] [DEBUG] parse_data_buffer, 333: Hoan tat phan tich cho interface cuoi cung 'lo', chuan bi them vao list.
+[2025-04-29 13:53:02] [DEBUG] list_add, 60: Bat dau them node moi cho 'lo'.
+[2025-04-29 13:53:02] [DEBUG] create_node, 21: Cap phat Node moi thanh cong tai dia chi 0x1840620.
+[2025-04-29 13:53:02] [DEBUG] create_node, 49: Sao chep du lieu chuoi cho Node 0x1840620 thanh cong.
+[2025-04-29 13:53:02] [DEBUG] create_node, 52: Tao Node moi cho 'lo' hoan tat.
+[2025-04-29 13:53:02] [DEBUG] list_add, 79: Da them node 'lo' vao cuoi danh sach.
+[2025-04-29 13:53:02] [DEBUG] parse_data_buffer, 338: Phan tich data buffer hoan tat.
+[2025-04-29 13:53:02] [DEBUG] list_print, 85: Bat dau in danh sach.
+[2025-04-29 13:53:02] [DEBUG] list_print, 111: In danh sach hoan tat.
+[2025-04-29 13:53:02] [DEBUG] list_destroy, 116: Bat dau giai phong danh sach.
+[2025-04-29 13:53:02] [DEBUG] list_destroy, 122: Giai phong du lieu chuoi cho node 'ens33' (0x18404e0).
+[2025-04-29 13:53:02] [DEBUG] list_destroy, 131: Giai phong node (0x18404e0).
+[2025-04-29 13:53:02] [DEBUG] list_destroy, 122: Giai phong du lieu chuoi cho node 'lo' (0x1840620).
+[2025-04-29 13:53:02] [DEBUG] list_destroy, 131: Giai phong node (0x1840620).
+[2025-04-29 13:53:02] [DEBUG] list_destroy, 136: Giai phong danh sach hoan tat, head da duoc set ve NULL.
+[2025-04-29 13:53:02] [DEBUG] main, 38: Chuong trinh ket thuc.
+[2025-04-29 14:08:02] [DEBUG] main, 9: Chuong trinh bat dau.
+[2025-04-29 14:08:02] [DEBUG] run_command_and_save, 343: Bat dau chay lenh 'ifconfig -a' va luu vao '/home/test/interface_manager/database/data.txt'.
+[2025-04-29 14:08:02] [DEBUG] run_command_and_save, 355: Da mo pipe cho lenh 'ifconfig -a'.
+[2025-04-29 14:08:02] [DEBUG] run_command_and_save, 365: Da mo file '/home/test/interface_manager/database/data.txt' de ghi.
+[2025-04-29 14:08:02] [DEBUG] run_command_and_save, 385: Doc xong output tu lenh, chuan bi dong file va pipe.
+[2025-04-29 14:08:02] [DEBUG] run_command_and_save, 405: Lenh 'ifconfig -a' thuc thi thanh cong va pipe da dong.
+[2025-04-29 14:08:02] [DEBUG] run_command_and_save, 417: Chay lenh 'ifconfig -a' va luu vao '/home/test/interface_manager/database/data.txt' hoan tat.
+[2025-04-29 14:08:02] [DEBUG] load_data_from_file, 212: Bat dau doc du lieu tu file '/home/test/interface_manager/database/data.txt'.
+[2025-04-29 14:08:02] [DEBUG] load_data_from_file, 243: Cap phat buffer 905 bytes thanh cong tai 0xcc2710.
+[2025-04-29 14:08:02] [DEBUG] load_data_from_file, 263: Doc file '/home/test/interface_manager/database/data.txt' thanh cong (904 bytes).
+[2025-04-29 14:08:02] [DEBUG] parse_data_buffer, 270: Bat dau phan tich data buffer.
+[2025-04-29 14:08:02] [DEBUG] parse_data_buffer, 301: Phat hien interface moi, reset buffer tam.
+[2025-04-29 14:08:02] [DEBUG] parse_data_buffer, 312: Phan tich ten: 'ens33', MAC: '00:0c:29:ff:74:cc'
+[2025-04-29 14:08:02] [DEBUG] parse_data_buffer, 320: Phan tich IPv4: '192.168.94.42', Bcast: '192.168.94.255', Mask: '255.255.255.0'
+[2025-04-29 14:08:02] [DEBUG] parse_data_buffer, 323: Phan tich IPv6: 'fe80::16aa:ef58:79e6:bb80/64'
+[2025-04-29 14:08:02] [DEBUG] parse_data_buffer, 326: Phan tich Status: 'UP'
+[2025-04-29 14:08:02] [DEBUG] parse_data_buffer, 296: Hoan tat phan tich cho 'ens33', chuan bi them vao list.
+[2025-04-29 14:08:02] [DEBUG] list_add, 60: Bat dau them node moi cho 'ens33'.
+[2025-04-29 14:08:02] [DEBUG] create_node, 21: Cap phat Node moi thanh cong tai dia chi 0xcc24e0.
+[2025-04-29 14:08:02] [DEBUG] create_node, 49: Sao chep du lieu chuoi cho Node 0xcc24e0 thanh cong.
+[2025-04-29 14:08:02] [DEBUG] create_node, 52: Tao Node moi cho 'ens33' hoan tat.
+[2025-04-29 14:08:02] [DEBUG] list_add, 72: Danh sach rong, them node 'ens33' lam node dau tien.
+[2025-04-29 14:08:02] [DEBUG] parse_data_buffer, 301: Phat hien interface moi, reset buffer tam.
+[2025-04-29 14:08:02] [DEBUG] parse_data_buffer, 312: Phan tich ten: 'lo', MAC: ''
+[2025-04-29 14:08:02] [DEBUG] parse_data_buffer, 320: Phan tich IPv4: '127.0.0.1', Bcast: '', Mask: '255.0.0.0'
+[2025-04-29 14:08:02] [DEBUG] parse_data_buffer, 323: Phan tich IPv6: '::1/128'
+[2025-04-29 14:08:02] [DEBUG] parse_data_buffer, 326: Phan tich Status: 'UP'
+[2025-04-29 14:08:02] [DEBUG] parse_data_buffer, 333: Hoan tat phan tich cho interface cuoi cung 'lo', chuan bi them vao list.
+[2025-04-29 14:08:02] [DEBUG] list_add, 60: Bat dau them node moi cho 'lo'.
+[2025-04-29 14:08:02] [DEBUG] create_node, 21: Cap phat Node moi thanh cong tai dia chi 0xcc2620.
+[2025-04-29 14:08:02] [DEBUG] create_node, 49: Sao chep du lieu chuoi cho Node 0xcc2620 thanh cong.
+[2025-04-29 14:08:02] [DEBUG] create_node, 52: Tao Node moi cho 'lo' hoan tat.
+[2025-04-29 14:08:02] [DEBUG] list_add, 79: Da them node 'lo' vao cuoi danh sach.
+[2025-04-29 14:08:02] [DEBUG] parse_data_buffer, 338: Phan tich data buffer hoan tat.
+[2025-04-29 14:08:02] [DEBUG] save_list_to_file, 423: Bat dau luu danh sach vao file '/home/test/interface_manager/database/my_iface_list.txt'.
+[2025-04-29 14:08:02] [DEBUG] save_list_to_file, 432: Da mo file '/home/test/interface_manager/database/my_iface_list.txt' de ghi.
+[2025-04-29 14:08:02] [DEBUG] save_list_to_file, 454: Luu danh sach vao file '/home/test/interface_manager/database/my_iface_list.txt' hoan tat.
+[2025-04-29 14:08:02] [DEBUG] list_destroy, 116: Bat dau giai phong danh sach.
+[2025-04-29 14:08:02] [DEBUG] list_destroy, 122: Giai phong du lieu chuoi cho node 'ens33' (0xcc24e0).
+[2025-04-29 14:08:02] [DEBUG] list_destroy, 131: Giai phong node (0xcc24e0).
+[2025-04-29 14:08:02] [DEBUG] list_destroy, 122: Giai phong du lieu chuoi cho node 'lo' (0xcc2620).
+[2025-04-29 14:08:02] [DEBUG] list_destroy, 131: Giai phong node (0xcc2620).
+[2025-04-29 14:08:02] [DEBUG] list_destroy, 136: Giai phong danh sach hoan tat, head da duoc set ve NULL.
+[2025-04-29 14:08:02] [DEBUG] main, 54: Chuong trinh ket thuc thanh cong.
+[2025-04-29 14:39:25] [DEBUG] main, 9: Chuong trinh bat dau.
+[2025-04-29 14:39:25] [DEBUG] run_command_and_save, 307: Running command 'ifconfig -a', saving to '/home/test/interface_manager/database/data.txt'.
+[2025-04-29 14:39:25] [DEBUG] run_command_and_save, 319: Pipe opened for command 'ifconfig -a'.
+[2025-04-29 14:39:25] [DEBUG] run_command_and_save, 327: Output file '/home/test/interface_manager/database/data.txt' opened for writing.
+[2025-04-29 14:39:25] [DEBUG] run_command_and_save, 345: Finished reading command output.
+[2025-04-29 14:39:25] [DEBUG] run_command_and_save, 361: Command 'ifconfig -a' executed successfully.
+[2025-04-29 14:39:25] [DEBUG] run_command_and_save, 369: Command execution and saving to 'ifconfig -a' completed.
+[2025-04-29 14:39:25] [DEBUG] load_data_from_file, 254: Loading data from file '/home/test/interface_manager/database/data.txt'.
+[2025-04-29 14:39:25] [DEBUG] load_data_from_file, 286: Allocated buffer 905 bytes at 0x143f710.
+[2025-04-29 14:39:25] [DEBUG] load_data_from_file, 301: Successfully read file '/home/test/interface_manager/database/data.txt' (904 bytes).
+[2025-04-29 14:39:25] [DEBUG] parse_data_buffer, 375: Bat dau phan tich data buffer.
+[2025-04-29 14:39:25] [DEBUG] parse_data_buffer, 401: Hoan tat phan tich cho 'ens33', them vao list.
+[2025-04-29 14:39:25] [DEBUG] list_add, 151: Adding node 'ens33'.
+[2025-04-29 14:39:25] [DEBUG] _create_node_internal, 91: Created node for 'ens33' at 0x143f4e0.
+[2025-04-29 14:39:25] [DEBUG] list_add, 155: Node 'ens33' added successfully.
+[2025-04-29 14:39:25] [DEBUG] parse_data_buffer, 431: Hoan tat phan tich cho interface cuoi cung 'lo', them vao list.
+[2025-04-29 14:39:25] [DEBUG] list_add, 151: Adding node 'lo'.
+[2025-04-29 14:39:25] [DEBUG] _create_node_internal, 91: Created node for 'lo' at 0x143f620.
+[2025-04-29 14:39:25] [DEBUG] list_add, 155: Node 'lo' added successfully.
+[2025-04-29 14:39:25] [DEBUG] parse_data_buffer, 439: Phan tich data buffer hoan tat.
+[2025-04-29 14:39:25] [DEBUG] save_list_to_file, 444: Saving list to file '/home/test/interface_manager/database/my_iface_list.txt'.
+[2025-04-29 14:39:25] [DEBUG] save_list_to_file, 454: Output file '/home/test/interface_manager/database/my_iface_list.txt' opened for writing.
+[2025-04-29 14:39:25] [DEBUG] save_list_to_file, 471: List saved to file '/home/test/interface_manager/database/my_iface_list.txt' successfully.
+[2025-04-29 14:39:25] [DEBUG] list_destroy, 187: Destroying interface list.
+[2025-04-29 14:39:25] [DEBUG] list_destroy, 192: Freeing node 'ens33' (0x143f4e0).
+[2025-04-29 14:39:25] [DEBUG] list_destroy, 192: Freeing node 'lo' (0x143f620).
+[2025-04-29 14:39:25] [DEBUG] list_destroy, 198: List destroyed, head set to NULL.
+[2025-04-29 14:39:25] [DEBUG] main, 54: Chuong trinh ket thuc thanh cong.
+[2025-04-29 14:40:23] [DEBUG] main, 9: Chuong trinh bat dau.
+[2025-04-29 14:40:23] [DEBUG] run_command_and_save, 307: Running command 'ifconfig -a', saving to '/home/test/interface_manager/database/data.txt'.
+[2025-04-29 14:40:23] [DEBUG] run_command_and_save, 319: Pipe opened for command 'ifconfig -a'.
+[2025-04-29 14:40:23] [DEBUG] run_command_and_save, 327: Output file '/home/test/interface_manager/database/data.txt' opened for writing.
+[2025-04-29 14:40:23] [DEBUG] run_command_and_save, 345: Finished reading command output.
+[2025-04-29 14:40:23] [DEBUG] run_command_and_save, 361: Command 'ifconfig -a' executed successfully.
+[2025-04-29 14:40:23] [DEBUG] run_command_and_save, 369: Command execution and saving to 'ifconfig -a' completed.
+[2025-04-29 14:40:23] [DEBUG] load_data_from_file, 254: Loading data from file '/home/test/interface_manager/database/data.txt'.
+[2025-04-29 14:40:23] [DEBUG] load_data_from_file, 286: Allocated buffer 905 bytes at 0x1c92710.
+[2025-04-29 14:40:23] [DEBUG] load_data_from_file, 301: Successfully read file '/home/test/interface_manager/database/data.txt' (904 bytes).
+[2025-04-29 14:40:23] [DEBUG] parse_data_buffer, 375: Bat dau phan tich data buffer.
+[2025-04-29 14:40:23] [DEBUG] parse_data_buffer, 401: Hoan tat phan tich cho 'ens33', them vao list.
+[2025-04-29 14:40:23] [DEBUG] list_add, 151: Adding node 'ens33'.
+[2025-04-29 14:40:23] [DEBUG] _create_node_internal, 91: Created node for 'ens33' at 0x1c924e0.
+[2025-04-29 14:40:23] [DEBUG] list_add, 155: Node 'ens33' added successfully.
+[2025-04-29 14:40:23] [DEBUG] parse_data_buffer, 431: Hoan tat phan tich cho interface cuoi cung 'lo', them vao list.
+[2025-04-29 14:40:23] [DEBUG] list_add, 151: Adding node 'lo'.
+[2025-04-29 14:40:23] [DEBUG] _create_node_internal, 91: Created node for 'lo' at 0x1c92620.
+[2025-04-29 14:40:23] [DEBUG] list_add, 155: Node 'lo' added successfully.
+[2025-04-29 14:40:23] [DEBUG] parse_data_buffer, 439: Phan tich data buffer hoan tat.
+[2025-04-29 14:40:23] [DEBUG] save_list_to_file, 444: Saving list to file '/home/test/interface_manager/database/my_iface_list.txt'.
+[2025-04-29 14:40:23] [DEBUG] save_list_to_file, 454: Output file '/home/test/interface_manager/database/my_iface_list.txt' opened for writing.
+[2025-04-29 14:40:23] [DEBUG] save_list_to_file, 471: List saved to file '/home/test/interface_manager/database/my_iface_list.txt' successfully.
+[2025-04-29 14:40:23] [DEBUG] list_destroy, 187: Destroying interface list.
+[2025-04-29 14:40:23] [DEBUG] list_destroy, 192: Freeing node 'ens33' (0x1c924e0).
+[2025-04-29 14:40:23] [DEBUG] list_destroy, 192: Freeing node 'lo' (0x1c92620).
+[2025-04-29 14:40:23] [DEBUG] list_destroy, 198: List destroyed, head set to NULL.
+[2025-04-29 14:40:23] [DEBUG] main, 54: Chuong trinh ket thuc thanh cong.
+[2025-05-06 10:00:01] [DEBUG] main, 9: Chuong trinh bat dau.
+[2025-05-06 10:00:01] [DEBUG] run_command_and_save, 306: Running command 'ifconfig -a', saving to '/home/test/interface_manager/database/data.txt'.
+[2025-05-06 10:00:01] [DEBUG] run_command_and_save, 317: Pipe opened for command 'ifconfig -a'.
+[2025-05-06 10:00:01] [DEBUG] run_command_and_save, 325: Output file '/home/test/interface_manager/database/data.txt' opened for writing.
+[2025-05-06 10:00:01] [DEBUG] run_command_and_save, 343: Finished reading command output.
+[2025-05-06 10:00:01] [DEBUG] run_command_and_save, 359: Command 'ifconfig -a' executed successfully.
+[2025-05-06 10:00:01] [DEBUG] run_command_and_save, 367: Command execution and saving to 'ifconfig -a' completed.
+[2025-05-06 10:00:01] [DEBUG] load_data_from_file, 254: Loading data from file '/home/test/interface_manager/database/data.txt'.
+[2025-05-06 10:00:01] [DEBUG] load_data_from_file, 286: Allocated buffer 905 bytes at 0x1b6f710.
+[2025-05-06 10:00:01] [DEBUG] load_data_from_file, 301: Successfully read file '/home/test/interface_manager/database/data.txt' (904 bytes).
+[2025-05-06 10:00:01] [DEBUG] parse_data_buffer, 373: Bat dau phan tich data buffer.
+[2025-05-06 10:00:01] [DEBUG] parse_data_buffer, 399: Hoan tat phan tich cho 'ens33', them vao list.
+[2025-05-06 10:00:01] [DEBUG] list_add, 151: Adding node 'ens33'.
+[2025-05-06 10:00:01] [DEBUG] _create_node_internal, 91: Created node for 'ens33' at 0x1b6f4e0.
+[2025-05-06 10:00:01] [DEBUG] list_add, 155: Node 'ens33' added successfully.
+[2025-05-06 10:00:01] [DEBUG] parse_data_buffer, 429: Hoan tat phan tich cho interface cuoi cung 'lo', them vao list.
+[2025-05-06 10:00:01] [DEBUG] list_add, 151: Adding node 'lo'.
+[2025-05-06 10:00:01] [DEBUG] _create_node_internal, 91: Created node for 'lo' at 0x1b6f620.
+[2025-05-06 10:00:01] [DEBUG] list_add, 155: Node 'lo' added successfully.
+[2025-05-06 10:00:01] [DEBUG] parse_data_buffer, 437: Phan tich data buffer hoan tat.
+[2025-05-06 10:00:01] [DEBUG] save_list_to_file, 442: Saving list to file '/home/test/interface_manager/database/my_iface_list.txt'.
+[2025-05-06 10:00:01] [DEBUG] save_list_to_file, 452: Output file '/home/test/interface_manager/database/my_iface_list.txt' opened for writing.
+[2025-05-06 10:00:01] [DEBUG] save_list_to_file, 469: List saved to file '/home/test/interface_manager/database/my_iface_list.txt' successfully.
+[2025-05-06 10:00:01] [DEBUG] list_destroy, 187: Destroying interface list.
+[2025-05-06 10:00:01] [DEBUG] list_destroy, 192: Freeing node 'ens33' (0x1b6f4e0).
+[2025-05-06 10:00:01] [DEBUG] list_destroy, 192: Freeing node 'lo' (0x1b6f620).
+[2025-05-06 10:00:01] [DEBUG] list_destroy, 198: List destroyed, head set to NULL.
+[2025-05-06 10:00:01] [DEBUG] main, 54: Chuong trinh ket thuc thanh cong.
+[2025-05-06 10:53:52] [DEBUG] main, 23: Chuong trinh bat dau.
+[2025-05-06 10:53:52] [DEBUG] run_command_and_save, 306: Running command 'ifconfig -a', saving to '/home/test/interface_manager/database/data.txt'.
+[2025-05-06 10:53:52] [DEBUG] run_command_and_save, 317: Pipe opened for command 'ifconfig -a'.
+[2025-05-06 10:53:52] [DEBUG] run_command_and_save, 325: Output file '/home/test/interface_manager/database/data.txt' opened for writing.
+[2025-05-06 10:53:52] [DEBUG] run_command_and_save, 343: Finished reading command output.
+[2025-05-06 10:53:52] [DEBUG] run_command_and_save, 359: Command 'ifconfig -a' executed successfully.
+[2025-05-06 10:53:52] [DEBUG] run_command_and_save, 367: Command execution and saving to 'ifconfig -a' completed.
+[2025-05-06 10:53:52] [DEBUG] load_data_from_file, 254: Loading data from file '/home/test/interface_manager/database/data.txt'.
+[2025-05-06 10:53:52] [DEBUG] load_data_from_file, 286: Allocated buffer 905 bytes at 0x8a2710.
+[2025-05-06 10:53:52] [DEBUG] load_data_from_file, 301: Successfully read file '/home/test/interface_manager/database/data.txt' (904 bytes).
+[2025-05-06 10:53:52] [DEBUG] parse_data_buffer, 373: Bat dau phan tich data buffer.
+[2025-05-06 10:53:52] [DEBUG] parse_data_buffer, 399: Hoan tat phan tich cho 'ens33', them vao list.
+[2025-05-06 10:53:52] [DEBUG] list_add, 151: Adding node 'ens33'.
+[2025-05-06 10:53:52] [DEBUG] _create_node_internal, 91: Created node for 'ens33' at 0x8a24e0.
+[2025-05-06 10:53:52] [DEBUG] list_add, 155: Node 'ens33' added successfully.
+[2025-05-06 10:53:52] [DEBUG] parse_data_buffer, 429: Hoan tat phan tich cho interface cuoi cung 'lo', them vao list.
+[2025-05-06 10:53:52] [DEBUG] list_add, 151: Adding node 'lo'.
+[2025-05-06 10:53:52] [DEBUG] _create_node_internal, 91: Created node for 'lo' at 0x8a2620.
+[2025-05-06 10:53:52] [DEBUG] list_add, 155: Node 'lo' added successfully.
+[2025-05-06 10:53:52] [DEBUG] parse_data_buffer, 437: Phan tich data buffer hoan tat.
+[2025-05-06 10:53:52] [DEBUG] save_list_to_file, 442: Saving list to file '/home/test/interface_manager/database/my_iface_list.txt'.
+[2025-05-06 10:53:52] [DEBUG] save_list_to_file, 452: Output file '/home/test/interface_manager/database/my_iface_list.txt' opened for writing.
+[2025-05-06 10:53:52] [DEBUG] save_list_to_file, 469: List saved to file '/home/test/interface_manager/database/my_iface_list.txt' successfully.
+[2025-05-06 10:53:52] [DEBUG] list_search, 203: Searching for node 'lo'.
+[2025-05-06 10:53:52] [DEBUG] list_search, 207: Found node 'lo' at 0x8a2620.
+[2025-05-06 10:53:52] [DEBUG] list_search, 203: Searching for node 'wlan0'.
+[2025-05-06 10:53:52] [WARN] list_search, 212: Node 'wlan0' not found.
+[2025-05-06 10:53:52] [DEBUG] list_destroy, 187: Destroying interface list.
+[2025-05-06 10:53:52] [DEBUG] list_destroy, 192: Freeing node 'ens33' (0x8a24e0).
+[2025-05-06 10:53:52] [DEBUG] list_destroy, 192: Freeing node 'lo' (0x8a2620).
+[2025-05-06 10:53:52] [DEBUG] list_destroy, 198: List destroyed, head set to NULL.
+[2025-05-06 10:53:52] [DEBUG] main, 73: Chuong trinh ket thuc thanh cong.
+[2025-05-06 10:54:41] [DEBUG] main, 23: Chuong trinh bat dau.
+[2025-05-06 10:54:41] [DEBUG] run_command_and_save, 306: Running command 'ifconfig -a', saving to '/home/test/interface_manager/database/data.txt'.
+[2025-05-06 10:54:41] [DEBUG] run_command_and_save, 317: Pipe opened for command 'ifconfig -a'.
+[2025-05-06 10:54:41] [DEBUG] run_command_and_save, 325: Output file '/home/test/interface_manager/database/data.txt' opened for writing.
+[2025-05-06 10:54:41] [DEBUG] run_command_and_save, 343: Finished reading command output.
+[2025-05-06 10:54:41] [DEBUG] run_command_and_save, 359: Command 'ifconfig -a' executed successfully.
+[2025-05-06 10:54:41] [DEBUG] run_command_and_save, 367: Command execution and saving to 'ifconfig -a' completed.
+[2025-05-06 10:54:41] [DEBUG] load_data_from_file, 254: Loading data from file '/home/test/interface_manager/database/data.txt'.
+[2025-05-06 10:54:41] [DEBUG] load_data_from_file, 286: Allocated buffer 905 bytes at 0xd07710.
+[2025-05-06 10:54:41] [DEBUG] load_data_from_file, 301: Successfully read file '/home/test/interface_manager/database/data.txt' (904 bytes).
+[2025-05-06 10:54:41] [DEBUG] parse_data_buffer, 373: Bat dau phan tich data buffer.
+[2025-05-06 10:54:41] [DEBUG] parse_data_buffer, 399: Hoan tat phan tich cho 'ens33', them vao list.
+[2025-05-06 10:54:41] [DEBUG] list_add, 151: Adding node 'ens33'.
+[2025-05-06 10:54:41] [DEBUG] _create_node_internal, 91: Created node for 'ens33' at 0xd074e0.
+[2025-05-06 10:54:41] [DEBUG] list_add, 155: Node 'ens33' added successfully.
+[2025-05-06 10:54:41] [DEBUG] parse_data_buffer, 429: Hoan tat phan tich cho interface cuoi cung 'lo', them vao list.
+[2025-05-06 10:54:41] [DEBUG] list_add, 151: Adding node 'lo'.
+[2025-05-06 10:54:41] [DEBUG] _create_node_internal, 91: Created node for 'lo' at 0xd07620.
+[2025-05-06 10:54:41] [DEBUG] list_add, 155: Node 'lo' added successfully.
+[2025-05-06 10:54:41] [DEBUG] parse_data_buffer, 437: Phan tich data buffer hoan tat.
+[2025-05-06 10:54:41] [DEBUG] save_list_to_file, 442: Saving list to file '/home/test/interface_manager/database/my_iface_list.txt'.
+[2025-05-06 10:54:41] [DEBUG] save_list_to_file, 452: Output file '/home/test/interface_manager/database/my_iface_list.txt' opened for writing.
+[2025-05-06 10:54:41] [DEBUG] save_list_to_file, 469: List saved to file '/home/test/interface_manager/database/my_iface_list.txt' successfully.
+[2025-05-06 10:54:41] [DEBUG] list_search, 203: Searching for node 'ens33'.
+[2025-05-06 10:54:41] [DEBUG] list_search, 207: Found node 'ens33' at 0xd074e0.
+[2025-05-06 10:54:41] [DEBUG] list_search, 203: Searching for node 'wlan0'.
+[2025-05-06 10:54:41] [WARN] list_search, 212: Node 'wlan0' not found.
+[2025-05-06 10:54:41] [DEBUG] list_destroy, 187: Destroying interface list.
+[2025-05-06 10:54:41] [DEBUG] list_destroy, 192: Freeing node 'ens33' (0xd074e0).
+[2025-05-06 10:54:41] [DEBUG] list_destroy, 192: Freeing node 'lo' (0xd07620).
+[2025-05-06 10:54:41] [DEBUG] list_destroy, 198: List destroyed, head set to NULL.
+[2025-05-06 10:54:41] [DEBUG] main, 73: Chuong trinh ket thuc thanh cong.
