@@ -1,0 +1,1 @@
+/home/thucnv/mesh-wifi-6/qsdk/build_dir/target-arm_cortex-a7_musl-1.1.16_eabi/linux-ipq_ipq50xx/qca-nss-dp-gc9d733d-dirty/hal/arch/ipq50xx/nss_ipq50xx.h
