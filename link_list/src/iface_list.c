@@ -250,9 +250,7 @@ bool list_delete(struct Node** head_ref, const char* delete_name) {
 }
 
 char* load_data_from_file(const char* filename) {
-    // Giữ nguyên logic, đã khá gọn
     LOG(LOG_LVL_DEBUG, "%s, %d: Loading data from file '%s'.", __func__, __LINE__, filename ? filename : "NULL_FILENAME");
-    // ... (toàn bộ code của hàm load_data_from_file như trước) ...
      FILE *fp = NULL;
      char *buffer = NULL;
      long file_size = 0;
@@ -438,9 +436,7 @@ void parse_data_buffer(struct Node** head_ref, char* data_buffer) {
 }
 
 void save_list_to_file(const struct Node* head, const char* output_filename) {
-    // Giữ nguyên logic, đã khá gọn
     LOG(LOG_LVL_DEBUG, "%s, %d: Saving list to file '%s'.", __func__, __LINE__, output_filename ? output_filename : "NULL_FILENAME");
-    // ... (toàn bộ code của hàm save_list_to_file như trước) ...
      FILE *fp = NULL;
      const struct Node* current = head;
 
